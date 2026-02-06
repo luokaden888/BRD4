@@ -1,5 +1,3 @@
-AI tools were used for code documentation and clarity, but all modeling, experiments, and analysis were conducted by the author.
-
 # Protein–Ligand Binding Affinity Prediction with a Hybrid GNN–Transformer
 
 This repository contains code for an independent research project on **protein–ligand binding classification**, using deep learning models trained on molecular SMILES data. The project focuses on improving generalization to novel chemical scaffolds by integrating **graph, fingerprint, and physicochemical representations** within a hybrid GNN–Transformer architecture.
